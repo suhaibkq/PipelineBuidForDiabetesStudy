@@ -1,4 +1,4 @@
-# 🤖 Diabetes Prediction Using Pipeline & make_pipeline
+# 🤖 Diabetes Prediction Using ML Pipeline
 
 ## 📌 Project Overview
 
